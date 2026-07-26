@@ -14,3 +14,12 @@ spotless {
 	}
 }
 ```
+
+## Format rules
+
+- **Tab char**: Space
+- **Parentheses positions**: Seperate lines if wrapped
+- **New line > Keep braced code on one line**: If empty
+- **Line wrapping**: 
+	- Never join already wrapped line
+	- Many is: Wrap all element, every element on a new line (48)
